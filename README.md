@@ -25,10 +25,10 @@ Essa aplicação foi criada para reduzir o trabalho manual e aumentar a precisã
 - Streamlit
 
 ## ▶️ Como executar o projeto
-
-1. Clone o repositório:
+1. acesso ao site :
+https://frete-calculator-marco.streamlit.app
+2. Clone o repositório:
 ```bash
 git clone https://github.com/Azevedo-073/frete-calculator-streamlit
 
-2. Acesso ao site :[
-https://frete-calculator-marco.streamlit.app
+
