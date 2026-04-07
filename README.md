@@ -30,5 +30,5 @@ Essa aplicação foi criada para reduzir o trabalho manual e aumentar a precisã
 ```bash
 git clone https://github.com/Azevedo-073/frete-calculator-streamlit
 
-2. Acesso ao site :
-https://lnkd.in/dnmWaB-J 
+2. Acesso ao site :[
+https://frete-calculator-marco.streamlit.app
